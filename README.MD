@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on developing projects of Avalonia UI, React, and AWS instances.<br>💼 I'm looking to collaborate with companies and communities to broaden my skills. <br>🤝 I'm looking for help with my career building and serve roles of R&D.<br>🌱 Currently learning Unity, Unreal Engine 5 and AWS Dynamo.<br>💬 Ask me about anything. <br>⚡️ I like to travel a lot.<br>
+🔭 Currently working on developing projects of Avalonia UI, React JS, and AWS instances.<br>💼 I'm looking to collaborate with companies and communities to broaden my skills. <br>🤝 I'm looking for help with my career building and serve roles of R&D.<br>🌱 Currently learning Unity, Unreal Engine 5 and AWS Dynamo.<br>💬 Ask me about anything. <br>⚡️ I like to travel a lot.<br>
 
 
 ## 🌐 Socials:
